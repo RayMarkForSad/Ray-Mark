@@ -12,7 +12,7 @@ include 'core/init.php';
 </head>
 <body>
 <a href="home.php">Home</a>
-<br>
+<br> 
 <a href="applicantspage.php">Applicants</a>
 <br>
 <a href="companypage.php">Company</a>
